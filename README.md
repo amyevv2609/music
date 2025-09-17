@@ -1,3 +1,5 @@
 # music
 ## reason i chose this topic 
-![Alt Text](https://variety.com/wp-content/uploads/2022/07/Music-Streaming-Wars.jpg?w=1000&h=563&crop=1 "Optional Title Text")
+The reason I chose this topic is because music is a way 
+![Alt Text] ( https://i.pinimg.com/originals/a5/89/40/a589404bf4b2993cf87ae3e2ca083e93.png "Optional Title Text")
+
